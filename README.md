@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [IplexSoft](https://iplexsoft.com/)
 
-- 💬 Ask me about **Flutter | API Integration | Google Maps | FireBase **
+- 💬 Ask me about Flutter | API Integration | Google Maps | FireBase 
 
 - 📫 How to reach me **itsmoeenahmad@gmail.com**
 
