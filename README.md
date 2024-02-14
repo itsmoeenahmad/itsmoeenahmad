@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at [IplexSoft](https://iplexsoft.com/)
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Flutter | Firebase | API Integration**
+- 💬 Ask me about **Flutter | API Integration | Google Maps | FireBase **
 
 - 📫 How to reach me **itsmoeenahmad@gmail.com**
 
