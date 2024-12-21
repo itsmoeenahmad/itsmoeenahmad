@@ -1,35 +1,39 @@
-<h1 align="center">Moeen Ahmad is here</h1>
-<h3 align="center">A Professional Mobile App Developer Using Flutter from Pakistan</h3>
+# Moeen Ahmad
 
-- 🔭 I’m currently working in [Giant Tech Solutions LLC](https://giantechs.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning **FrontEnd & BackEnd**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/itsmoeenahmad/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/itsmoeenahmad//)](https://www.instagram.com/https://www.instagram.com/itsmoeenahmad/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itsmoeenahmad@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://itsmoeenahmad.carrd.co/)](https://itsmoeenahmad.carrd.co/)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 👯 I’m looking to collaborate on [App Dev Projects](https://moeendeveloper.carrd.co/)
+- 💻 Owner of [**FlutterCraft**](https://linktr.ee/flutter__craft), Check it out for Flutter Related Contents.
+- 🤔 I’m currently learning [**Python For BackEnd Development**](https://github.com/itsmoeenahmad/Python-Mastery), Check it out if you're interested in FastApi Framework Of Python For BackEnd Development.
+- 📫 How to reach me: itsmoeenahmad@gmail.com
 
-- 🤝 I’m looking for help with [Project Management](https://www.linkedin.com/in/moeen-ahmad-flutterdeveloper)
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmoeenahmad](https://github.com/itsmoeenahmad)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/moeen-ahmad-flutterdeveloper](https://www.linkedin.com/in/moeen-ahmad-flutterdeveloper)
 
-- 💬 Ask me about **Mobile Application Development**
 
-- 📫 How to reach me **itsmoeenahmad@gmail.com**
+### 🖥 Skills
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/moeen-ahmad-flutterdeveloper](https://www.linkedin.com/in/moeen-ahmad-flutterdeveloper)
+- Flutter
+- Python
+- Mobile App Development
+- API Development
+- Datebase Management
+- Communication 
+- Public Speaker
+### ⚙️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moeen ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moeen ahmad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23212429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23212429" height="30" width="40" /></a>
-<a href="https://fb.com/moeen ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moeen ahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmoeenahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmoeenahmad" height="30" width="40" /></a>
-</p>
+![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastApi-05122A?style=flat-square&logo=FastApi&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=Android-Studio&color=353535)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmoeenahmad&show_icons=true&locale=en&layout=compact" alt="itsmoeenahmad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&show_icons=true&locale=en" alt="itsmoeenahmad" /></p>
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
