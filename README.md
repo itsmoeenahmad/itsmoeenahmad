@@ -27,4 +27,6 @@
 - Public Speaker
 ### ⚙️ Tech Stack
 
+![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastApi-05122A?style=flat-square&logo=FastApi&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=Android-Studio&color=353535)
+
 
