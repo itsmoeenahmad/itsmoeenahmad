@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/itsmoeenahmad//)](https://www.instagram.com/https://www.instagram.com/itsmoeenahmad/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itsmoeenahmad@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://itsmoeenahmad.carrd.co/)](https://itsmoeenahmad.carrd.co/)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/itsmoeenahmad)
 
 - 💻 Owner of [**FlutterCraft**](https://linktr.ee/flutter__craft), Check it out for Flutter Related Contents.
 - 🤔 I’m currently learning [**Python For BackEnd Development**](https://github.com/itsmoeenahmad/Python-Mastery), Check it out if you're interested in FastApi Framework Of Python For BackEnd Development.
