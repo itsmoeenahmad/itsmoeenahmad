@@ -1,15 +1,15 @@
-# 👋🏻 Hi, I'm Moeen Ahmad
+# Hi, I'm Moeen Ahmad
 
 **App + Gen AI Engineer** | 📍 Based in Peshawar, Pakistan
 
 ---
 
-## 👨🏻‍💻 About Me
+## About Me
 
 I’m a **Flutter Mobile App Developer** with over **2 years of experience**, having worked internationally with:
 
-- 🇦🇪 [**Humai** – Dubai]: Flutter developer focused on scalable apps and AI features  
-- 🇬🇧 [**iClick Technologies** – UK]: Engineered cross-platform solutions and API-integrated mobile apps
+- [**Humai** – Based in Dubai]: Flutter developer focused on scalable apps and AI features  
+- [**iClick Technologies** – Based in UK]: Engineered cross-platform solutions and API-integrated mobile apps
 
 Currently exploring the intersection of **Mobile App Development and Generative AI**, building apps and systems powered by the latest LLMs. I love solving real-world problems by combining solid engineering practices with the power of AI.
 
