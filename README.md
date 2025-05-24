@@ -1,67 +1,30 @@
-# Hi, I'm Moeen Ahmad
+<h1 align="center">Hi, I'm Moeen Ahmad</h1>
+<h3 align="center">App + Gen AI Engineer | Based in Peshawar, Pakistan</h3>
 
-**App + Gen AI Engineer** | Based in Peshawar, Pakistan
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoeenahmad&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoeenahmad" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmoeenahmad" alt="itsmoeenahmad" /></a> </p>
 
-## About Me
+- 💬 Ask me about **Apps & Generative AI**
 
-I’m a **Flutter Mobile App Developer** with over **2 years of experience**, having worked internationally with:
+- 📫 How to reach me **itsmoeenahmad@gmail.com**
 
-- **Humai** – Based in Dubai: Flutter developer focused on scalable apps and AI features  
-- **iClick Technologies** – Based in UK: Engineered cross-platform solutions and API-integrated mobile apps
+- 📄 Know about my experiences [https://www.linkedin.com/in/itsmoeenahmad](https://www.linkedin.com/in/itsmoeenahmad)
 
-Currently exploring the intersection of **Mobile App Development and Generative AI**, building apps and systems powered by the latest LLMs. I love solving real-world problems by combining solid engineering practices with the power of AI.
+- ⚡ Fun fact **I teach Flutter to university students in seminars and bootcamps — spreading the Flutter love one widget at a time!**
 
----
-
-## Tech Stack & Skills
-
-### Frontend & Mobile:
-- Flutter & Dart, Firebase (Auth, Firestore, Notifications, Realtime DBs), RESTful API Integration, Google Maps Integration, Responsive UI Design,..., and Many More.
-
-### Generative AI:
-- LLMs, Langchain, Prompt Engineering, Vector DBs (Chroma, Pinecone, etc.), Chatbots, RAG Systems (Retrieval-Augmented Generation), AI Agents,..., and Many More.
-
-### Backend:
-- FastAPI, Rest APIs,..., and Many More.
-
-### Cloud Platforms:
-- AWS, Railway, Render, Koyeb
-
-### Tools:
-- VSCode, Jupyter Notebooks, Git & GitHub, Docker, Postman, V0 (Vercel AI UI Tool),..., and Many More.
-
-### Operating Systems:
-- MacOS & Windows
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoeenahmad&theme=radical" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoeenahmad&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&show_icons=true&theme=radical" alt="GitHub Stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/23212429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23212429" height="30" width="40" /></a>
+<a href="https://fb.com/itsmoeenahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmoeenahmad" height="30" width="40" /></a>
+<a href="https://instagram.com/itsmoeenahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmoeenahmad" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmoeenahmad&show_icons=true&locale=en&layout=compact" alt="itsmoeenahmad" /></p>
 
-## Connect With Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&show_icons=true&locale=en" alt="itsmoeenahmad" /></p>
 
-- Email: itsmoeenahmad@gmail.com  
-- LinkedIn: [linkedin.com/in/moeenahmaddev](https://www.linkedin.com/in/itsmoeenahmad)  
-- Instagram: [@itsmoeenahmad](https://www.instagram.com/itsmoeenahmad)  
-- Website (coming soon): itsmoeenahmad.dev
-
----
-
-### Fun Fact:
-I teach Flutter to university students in seminars and bootcamps — spreading the Flutter love one widget at a time!
-
----
-
-*Feel free to explore my repositories and don’t forget to leave a ⭐ if you find something useful!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoeenahmad&" alt="itsmoeenahmad" /></p>
