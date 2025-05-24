@@ -23,6 +23,7 @@ languages:
   - Dart
   - Python
 ```
+```YAML
 tools:
   - Flutter
   - Firebase
@@ -31,19 +32,22 @@ tools:
   - Postman
   - Docker
   - V0
-
+```
+```YAML
 cloud:
   - Google Cloud
   - AWS
   - Railway
   - Render
   - Koyeb
-
+```
+```YAML
 databases:
   - Firestore
   - Realtime DB
   - Chroma
   - Pinecone
+```
 
 ### _Github Stats_
 <div> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoeenahmad&theme=radical&hide_border=true" height="165" /> </p> </div>
