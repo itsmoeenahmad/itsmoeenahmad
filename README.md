@@ -8,8 +8,8 @@
 
 I’m a **Flutter Mobile App Developer** with over **2 years of experience**, having worked internationally with:
 
-- [**Humai** – Based in Dubai]: Flutter developer focused on scalable apps and AI features  
-- [**iClick Technologies** – Based in UK]: Engineered cross-platform solutions and API-integrated mobile apps
+- **Humai** – Based in Dubai: Flutter developer focused on scalable apps and AI features  
+- **iClick Technologies** – Based in UK: Engineered cross-platform solutions and API-integrated mobile apps
 
 Currently exploring the intersection of **Mobile App Development and Generative AI**, building apps and systems powered by the latest LLMs. I love solving real-world problems by combining solid engineering practices with the power of AI.
 
@@ -18,43 +18,22 @@ Currently exploring the intersection of **Mobile App Development and Generative 
 ## Tech Stack & Skills
 
 ### Frontend & Mobile:
-- Flutter (Dart) – Expert level
-- Firebase (Auth, Firestore, Notifications, Realtime DBs)
-- RESTful API Integration
-- Google Maps Integration
-- Responsive UI Design
+- Flutter & Dart, Firebase (Auth, Firestore, Notifications, Realtime DBs), RESTful API Integration, Google Maps Integration, Responsive UI Design,..., and Many More.
 
 ### Generative AI:
-- OpenAI, Gemini, Anthropic, Groq, Hugging Face
-- Langchain (Expert Level)
-- Prompt Engineering
-- Vector DBs (Chroma, Pinecone, etc.)
-- Chatbots (custom + embedded)
-- RAG Systems (Retrieval-Augmented Generation)
-- AI Agents (autonomous & goal-oriented)
+- LLMs, Langchain, Prompt Engineering, Vector DBs (Chroma, Pinecone, etc.), Chatbots, RAG Systems (Retrieval-Augmented Generation), AI Agents,..., and Many More.
 
 ### Backend:
-- FastAPI
-- Rest APIs
+- FastAPI, Rest APIs,..., and Many More.
 
 ### Cloud Platforms:
-- AWS
-- Google Cloud
-- Railway
-- Render
-- Koyeb
+- AWS, Railway, Render, Koyeb
 
 ### Tools:
-- VSCode
-- Jupyter Notebooks
-- Git & GitHub
-- Docker
-- Postman
-- V0 (Vercel AI UI Tool)
+- VSCode, Jupyter Notebooks, Git & GitHub, Docker, Postman, V0 (Vercel AI UI Tool),..., and Many More.
 
 ### Operating Systems:
-- MacOS
-- Windows
+- MacOS & Windows
 
 ---
 
