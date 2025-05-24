@@ -1,6 +1,6 @@
 # Hi, I'm Moeen Ahmad
 
-**App + Gen AI Engineer** | 📍 Based in Peshawar, Pakistan
+**App + Gen AI Engineer** | Based in Peshawar, Pakistan
 
 ---
 
@@ -73,10 +73,10 @@ Currently exploring the intersection of **Mobile App Development and Generative 
 
 ## Connect With Me
 
-- 📧 Email: itsmoeenahmad@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/moeenahmaddev](https://www.linkedin.com/in/itsmoeenahmad)  
-- 📱 Instagram: [@itsmoeenahmad](https://www.instagram.com/itsmoeenahmad)  
-- 🌐 Website (coming soon): itsmoeenahmad.dev
+- Email: itsmoeenahmad@gmail.com  
+- LinkedIn: [linkedin.com/in/moeenahmaddev](https://www.linkedin.com/in/itsmoeenahmad)  
+- Instagram: [@itsmoeenahmad](https://www.instagram.com/itsmoeenahmad)  
+- Website (coming soon): itsmoeenahmad.dev
 
 ---
 
