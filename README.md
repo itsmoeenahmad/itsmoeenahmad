@@ -61,10 +61,13 @@ Currently exploring the intersection of **Mobile Development and Generative AI**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeenahmaddev&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoeenahmad&theme=radical" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeenahmaddev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmoeenahmad&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 
