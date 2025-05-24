@@ -4,11 +4,11 @@ I specialize in building **cross-platform mobile apps** using Flutter and integr
 
 Currently diving deep into **AI Apps**. Always open to collaboration and learning with fellow devs 🤝🏻
 
-📬 Reach me at: _**itsmoeenahmad@gmail.com**_
+Feel Free to reach out at: _**itsmoeenahmad@gmail.com**_
 
 ---
 
-### _Connect with me 🤙_
+### _Connect with me_
 <p align="left">
 <a href="https://facebook.com/itsmoeenahmad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsmoeenahmad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
