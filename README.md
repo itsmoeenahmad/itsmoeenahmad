@@ -1,6 +1,6 @@
 ### _Hello_ 👋🏻  
-I'm **Moeen Ahmad** — App + GenAI Engineer from Peshawar, Pakistan 🇵🇰  
-I specialize in building **cross-platform mobile apps** using Flutter and integrating **Generative AI** tools to create smart, scalable solutions. With over **2 years of experience**, I love crafting systems that solve real-world problems.
+I'm **Moeen Ahmad** — Full Stack Engineer(Flutter + AI) from Peshawar, Pakistan 🇵🇰  
+I design and build Mobile Apps, Backend Systems, and AI-Powered Solutions that are fast, reliable, and easy to use — all while staying active in the developer community and always learning what's next.
 
 Currently diving deep into **AI Apps**. Always open to collaboration and learning with fellow devs 🤝🏻
 
