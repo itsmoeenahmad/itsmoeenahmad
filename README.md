@@ -50,7 +50,13 @@ databases:
 ```
 
 ### _Github Stats_
-<div> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoeenahmad&theme=radical&hide_border=true" height="165" /> </p> </div>
+<div>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+    <img src="https://streak-stats.demolab.com?user=itsmoeenahmad&theme=radical&hide_border=true" height="165" />
+  </p>
+</div>
+
 
 ### _Currently Doing What?_ 
 Building AI-powered Apps, leading FlutterCraft, and mentoring students in bootcamps & seminars.
