@@ -1,100 +1,110 @@
-profile:
-  name: Moeen Ahmad
-  role: Full Stack Engineer (Flutter + AI)
-  location: Peshawar, Pakistan 🇵🇰
-  email: itsmoeenahmad@gmail.com
-  portfolio: https://itsmoeenahmad.online
+### _Hello_ 👋🏻  
+I'm **Moeen Ahmad** — Full Stack Engineer (**Flutter + AI**) from Peshawar, Pakistan 🇵🇰  
 
-summary:
-  - I design and build high-performance Mobile Apps, Scalable Backends,
-    and AI-powered systems that solve real-world problems.
-  - Strong focus on Flutter, Generative AI, and Production-ready AI systems.
-  - Passionate about learning, mentoring, and building developer communities.
+I design and build mobile apps, backend systems, and AI-powered solutions that are fast, reliable, and easy to use while staying active in the developer community and always learning what’s next.
 
-currently:
-  learning:
-    - Advanced LLM-based Applications
-    - AI Agents & Automations
-    - LLMOps & Scalable AI Infrastructure
-  building:
-    - AI-powered mobile & web applications
-    - FlutterCraft (community & mentoring initiative)
-    - RAG-based intelligent systems
-  open_to:
-    - Collaboration
-    - Freelance & Contract Work
-    - Open-source contributions
+Currently diving deep into **AI Apps**.  
+Always open to collaboration and learning with fellow devs 🤝🏻  
 
-tech_stack:
-  mobile:
-    - Flutter
-    - Dart
-    - Android App Development
-    - iOS App Development
-    - UI Design
-    - Responsive Layouts
-    - State Management
-    - Localization
-    - Testing & Deployment
+Feel free to reach out at: _**itsmoeenahmad@gmail.com**_
 
-  backend:
-    - Python
-    - FastAPI
-    - REST APIs
-    - Backend as a Service
-    - Firebase
-    - Supabase
-    - MongoDB
+---
 
-  ai_ml:
-    - Generative AI
-    - Large Language Models (LLMs)
-    - Prompt Engineering
-    - LangChain
-    - LangSmith
-    - LangServe
-    - LlamaIndex
-    - RAG Systems
-    - Vector Databases
-    - Chroma
-    - Pinecone
-    - AI Agents
-    - Automations
-    - MCP Servers
-    - Hugging Face
-    - LLMOps
+### _Connect with me_
+<p align="left">
+  <a href="https://facebook.com/itsmoeenahmad" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/itsmoeenahmad" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/itsmoeenahmad" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
 
-  cloud_devops:
-    - Docker
-    - Git
-    - GitHub Actions
-    - Codemagic
-    - CI/CD Pipelines
-    - Google Cloud Platform
-    - Amazon Web Services
-    - Railway
-    - Render
-    - Koyeb
+---
+
+### _Languages & Tools_
+
+```yaml
+languages:
+  - Dart
+  - Python
+  - C++
+  - Swift
 
 tools:
-  - Postman
+  - Flutter
+  - Firebase
+  - LangChain
   - Git & GitHub
-  - Firebase Console
-  - Supabase Studio
-  - Docker CLI
+  - Postman
+  - Docker
+  - V0
 
-philosophy:
-  - Build fast, but build right
-  - Ship practical AI, not hype
-  - Clean architecture > clever hacks
-  - Learning never stops
+cloud:
+  - Google Cloud
+  - AWS
+  - Railway
+  - Render
+  - Koyeb
 
-fun_facts:
-  - I enjoy turning complex AI ideas into simple user experiences
-  - I love mentoring developers and speaking at bootcamps & seminars
-  - I believe Flutter + AI is an underrated power combo
+databases:
+  - Firestore
+  - Realtime DB
+  - MongoDB
+  - Pinecone
+  - Chroma
+```
 
-connect:
-  facebook: https://facebook.com/itsmoeenahmad
-  linkedin: https://linkedin.com/in/itsmoeenahmad
-  instagram: https://instagram.com/itsmoeenahmad
+### _Badges & Visuals_
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-6e5494?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/V0-0D1117?style=flat&logo=vercel&logoColor=white" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-111111?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koyeb-00C1D4?style=flat&logo=koyeb&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Firestore-FF6C37?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime_DB-FF6C37?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-FF5A00?style=flat&logoColor=white" />
+
+  <!-- Stores -->
+  <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white" />
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-6E5494?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-009688?style=flat&logoColor=white" />
+</p>
+
+
+### _Currently Doing What?_
+Building AI-powered apps, working as a **Senior App Developer** for a Saudi-based company, and mentoring students through bootcamps & seminars while part-time leading **FlutterCraft**.
