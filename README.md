@@ -1,63 +1,100 @@
-### _Hello_ 👋🏻  
-I'm **Moeen Ahmad** — Full Stack Engineer(Flutter + AI) from Peshawar, Pakistan 🇵🇰  
-I design and build Mobile Apps, Backend Systems, and AI-Powered Solutions that are fast, reliable, and easy to use — all while staying active in the developer community and always learning what's next.
+profile:
+  name: Moeen Ahmad
+  role: Full Stack Engineer (Flutter + AI)
+  location: Peshawar, Pakistan 🇵🇰
+  email: itsmoeenahmad@gmail.com
+  portfolio: https://itsmoeenahmad.online
 
-Currently diving deep into **AI Apps**. Always open to collaboration and learning with fellow devs 🤝🏻
+summary:
+  - I design and build high-performance Mobile Apps, Scalable Backends,
+    and AI-powered systems that solve real-world problems.
+  - Strong focus on Flutter, Generative AI, and Production-ready AI systems.
+  - Passionate about learning, mentoring, and building developer communities.
 
-Feel Free to reach out at: _**itsmoeenahmad@gmail.com**_
+currently:
+  learning:
+    - Advanced LLM-based Applications
+    - AI Agents & Automations
+    - LLMOps & Scalable AI Infrastructure
+  building:
+    - AI-powered mobile & web applications
+    - FlutterCraft (community & mentoring initiative)
+    - RAG-based intelligent systems
+  open_to:
+    - Collaboration
+    - Freelance & Contract Work
+    - Open-source contributions
 
----
+tech_stack:
+  mobile:
+    - Flutter
+    - Dart
+    - Android App Development
+    - iOS App Development
+    - UI Design
+    - Responsive Layouts
+    - State Management
+    - Localization
+    - Testing & Deployment
 
-### _Connect with me_
-<p align="left">
-<a href="https://facebook.com/itsmoeenahmad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmoeenahmad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmoeenahmad" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+  backend:
+    - Python
+    - FastAPI
+    - REST APIs
+    - Backend as a Service
+    - Firebase
+    - Supabase
+    - MongoDB
 
----
+  ai_ml:
+    - Generative AI
+    - Large Language Models (LLMs)
+    - Prompt Engineering
+    - LangChain
+    - LangSmith
+    - LangServe
+    - LlamaIndex
+    - RAG Systems
+    - Vector Databases
+    - Chroma
+    - Pinecone
+    - AI Agents
+    - Automations
+    - MCP Servers
+    - Hugging Face
+    - LLMOps
 
-### _Languages and Tools ⚙_
-```YAML
-languages:
-  - Dart
-  - Python
-```
-```YAML
+  cloud_devops:
+    - Docker
+    - Git
+    - GitHub Actions
+    - Codemagic
+    - CI/CD Pipelines
+    - Google Cloud Platform
+    - Amazon Web Services
+    - Railway
+    - Render
+    - Koyeb
+
 tools:
-  - Flutter
-  - Firebase
-  - Langchain
-  - Git & GitHub
   - Postman
-  - Docker
-  - V0
-```
-```YAML
-cloud:
-  - Google Cloud
-  - AWS
-  - Railway
-  - Render
-  - Koyeb
-```
-```YAML
-databases:
-  - Firestore
-  - Realtime DB
-  - Chroma
-  - Pinecone
-```
+  - Git & GitHub
+  - Firebase Console
+  - Supabase Studio
+  - Docker CLI
 
-### _Github Stats_
-<div>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmoeenahmad&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-    <img src="https://streak-stats.demolab.com?user=itsmoeenahmad&theme=radical&hide_border=true" height="165" />
-  </p>
-</div>
+philosophy:
+  - Build fast, but build right
+  - Ship practical AI, not hype
+  - Clean architecture > clever hacks
+  - Learning never stops
 
+fun_facts:
+  - I enjoy turning complex AI ideas into simple user experiences
+  - I love mentoring developers and speaking at bootcamps & seminars
+  - I believe Flutter + AI is an underrated power combo
 
-### _Currently Doing What?_ 
-Building AI-powered Apps, leading FlutterCraft, and mentoring students in bootcamps & seminars.
-
+connect:
+  facebook: https://facebook.com/itsmoeenahmad
+  linkedin: https://linkedin.com/in/itsmoeenahmad
+  instagram: https://instagram.com/itsmoeenahmad
