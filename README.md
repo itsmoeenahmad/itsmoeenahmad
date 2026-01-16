@@ -1,12 +1,15 @@
 ### _Hello_ 👋🏻  
-I'm **Moeen Ahmad** — Full Stack Engineer (**Flutter + AI**) from Peshawar, Pakistan 🇵🇰  
+I'm **Moeen Ahmad** — **Senior Mobile App Engineer** (**Flutter**) from Peshawar, Pakistan 🇵🇰  
 
-I design and build mobile apps, backend systems, and AI-powered solutions that are fast, reliable, and easy to use while staying active in the developer community and always learning what’s next.
+I design and build **production-ready mobile apps** with a strong focus on clean architecture, performance, and great user experience. Most of my work revolves around Flutter-based mobile applications, end-to-end development, and shipping apps used by real users.  
 
-Currently diving deep into **AI Apps**.  
-Always open to collaboration and learning with fellow devs 🤝🏻  
+Alongside mobile engineering, I also work with **Generative AI** to build chatbots, AI-powered features, and backend systems using Python and FastAPI.  
 
-Feel free to reach out at: _**itsmoeenahmad@gmail.com**_
+I enjoy sharing what I learn, speaking at tech events, and collaborating with other developers 🤝🏻  
+Always learning. Always building.
+
+Reach me at: **itsmoeenahmad@gmail.com**
+
 
 ---
 
@@ -107,4 +110,4 @@ databases:
 
 
 ### _Currently Doing What?_
-Building AI-powered apps, working as a **Senior App Developer** for a Saudi-based company, and mentoring students through bootcamps & seminars while part-time leading **FlutterCraft**.
+Building production-ready mobile apps, exploring **Generative AI**, working as a **Senior Mobile App Engineer** with a Saudi-Arabia based company, and mentoring students through bootcamps and tech sessions.
