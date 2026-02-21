@@ -110,4 +110,4 @@ databases:
 
 
 ### _Currently Doing What?_
-Building production-ready mobile apps, exploring **Generative AI**, working as a **Senior Mobile App Engineer** with a Saudi-Arabia based company, and mentoring students through bootcamps and tech sessions.
+Building production-ready **Mobile Apps**, exploring **Generative AI**, working as a **Lead Software Engineer** at FlutterCraft, and mentoring students through bootcamps and tech sessions.
