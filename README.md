@@ -8,7 +8,7 @@ Alongside mobile engineering, I also work with **Generative AI** to build chatbo
 I enjoy sharing what I learn, speaking at tech events, and collaborating with other developers 🤝🏻  
 Always learning. Always building.
 
-Reach me at: **itsmoeenahmad@gmail.com**
+Reach me at: **hi@itsmoeenahmad.com**
 
 
 ---
