@@ -1,14 +1,16 @@
 ### _Hello_ 👋🏻  
 I'm **Moeen Ahmad** — **Senior Mobile App Engineer** (**Flutter**) from Peshawar, Pakistan 🇵🇰  
 
-I design and build **production-ready mobile apps** with a strong focus on clean architecture, performance, and great user experience. Most of my work revolves around Flutter-based mobile applications, end-to-end development, and shipping apps used by real users.  
+I design and build **production-ready mobile apps** with a strong focus on **clean architecture, performance, and great user experience**. Most of my work revolves around **flutter-based cross-platform applications**, end-to-end product development, and shipping apps used by real users.
 
 Alongside mobile engineering, I also work with **Generative AI** to build chatbots, AI-powered features, and backend systems using Python and FastAPI.  
 
 I enjoy sharing what I learn, speaking at tech events, and collaborating with other developers 🤝🏻  
 Always learning. Always building.
 
-Reach me at: **hi@itsmoeenahmad.com**
+**Email:** hi@itsmoeenahmad.com
+**Portfolio:** https://itsmoeenahmad.com  
+**Book a meeting:** https://mentoga.com/itsmoeenahmad
 
 
 ---
@@ -107,6 +109,15 @@ databases:
   <img src="https://img.shields.io/badge/AI_Agents-6E5494?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Systems-009688?style=flat&logoColor=white" />
 </p>
+
+### _What I Do_
+
+- Build **production mobile apps** using Flutter
+- Design **scalable mobile architectures**
+- Develop **AI-powered features and systems**
+- Build **REST APIs and backend services with Python (FastAPI)**
+- Work with **Cloud & DevOps for deployment**
+- Speak at **tech events, webinars, and developer communities**
 
 
 ### _Currently Doing What?_
