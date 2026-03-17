@@ -9,8 +9,7 @@ I enjoy sharing what I learn, speaking at tech events, and collaborating with ot
 Always learning. Always building.
 
 **Email:** hi@itsmoeenahmad.com
-**Portfolio:** https://itsmoeenahmad.com  
-**Book a meeting:** https://mentoga.com/itsmoeenahmad
+**Learn more:** https://itsmoeenahmad.com  
 
 
 ---
@@ -63,6 +62,17 @@ databases:
   - Chroma
 ```
 
+
+### _What I Do_
+```yaml
+- Build production mobile apps using Flutter
+- Design scalable mobile architectures
+- Develop AI-Powered features and systems
+- Build REST APIs and backend services with Python (FastAPI)
+- Work with Cloud & DevOps for deployment
+- Speak at tech events, webinars, and developer communities
+```
+
 ### _Badges & Visuals_
 
 <p align="left">
@@ -109,16 +119,3 @@ databases:
   <img src="https://img.shields.io/badge/AI_Agents-6E5494?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Systems-009688?style=flat&logoColor=white" />
 </p>
-
-### _What I Do_
-
-- Build **production mobile apps** using Flutter
-- Design **scalable mobile architectures**
-- Develop **AI-powered features and systems**
-- Build **REST APIs and backend services with Python (FastAPI)**
-- Work with **Cloud & DevOps for deployment**
-- Speak at **tech events, webinars, and developer communities**
-
-
-### _Currently Doing What?_
-Building production-ready **Mobile Apps**, exploring **Generative AI**, working as a **Lead Software Engineer** at FlutterCraft, and mentoring students through bootcamps and tech sessions.
